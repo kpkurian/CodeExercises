@@ -8,4 +8,7 @@ package exercises.doors100;
  * To change this template use File | Settings | File Templates.
  */
 public class Doors100 {
+    public static void main(String args[]) {
+
+    }
 }
